@@ -1,0 +1,51 @@
+body{
+  background-color:rgb(240, 240, 240);
+}
+
+.uncase {
+  height: 300px;
+  width: 1000px;
+background-color: white;
+border-radius: 10px;
+text-align: center;
+    padding: 40px;
+    margin: 30px auto;
+
+}
+
+.deuxcase {
+  height: 150px;
+  width: 1000px;
+background-color: white;
+border-radius: 10px;
+text-align: center;
+      padding: 40px;
+      margin: 30px auto;
+}
+
+.deuxcase1 {
+  padding: 10px;
+  margin: 30px auto;
+}
+
+.deuxcase2 {
+  padding: 10px;
+  margin: 30px auto;
+}
+
+.deuxcase3 {
+  padding: 10px;
+  margin: 30px auto;
+}
+
+.troiscase {
+
+  height: 300px;
+  width: 1000px;
+background-color: white;
+border-radius: 10px;
+text-align: center;
+    padding: 40px;
+    margin: 30px auto;
+
+}
